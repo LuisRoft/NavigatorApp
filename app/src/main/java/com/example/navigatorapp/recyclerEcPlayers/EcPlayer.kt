@@ -1,4 +1,4 @@
-package com.example.navigatorapp
+package com.example.navigatorapp.recyclerEcPlayers
 
 data class EcPlayer(
     val playerName:String,

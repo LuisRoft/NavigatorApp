@@ -1,9 +1,9 @@
-package com.example.navigatorapp.adapter
+package com.example.navigatorapp.recyclerEcPlayers.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.navigatorapp.EcPlayer
+import com.example.navigatorapp.recyclerEcPlayers.EcPlayer
 import com.example.navigatorapp.R
 
 class EcPlayerAdapter(private val ecPlayersList:List<EcPlayer>) : RecyclerView.Adapter<ViewHolder>() {

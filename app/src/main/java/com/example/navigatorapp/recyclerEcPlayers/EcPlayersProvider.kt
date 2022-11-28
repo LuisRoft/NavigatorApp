@@ -1,4 +1,6 @@
-package com.example.navigatorapp
+package com.example.navigatorapp.recyclerEcPlayers
+
+import com.example.navigatorapp.recyclerEcPlayers.EcPlayer
 
 class EcPlayersProvider {
     companion object {

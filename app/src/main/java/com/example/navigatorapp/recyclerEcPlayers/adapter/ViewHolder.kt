@@ -1,10 +1,10 @@
-package com.example.navigatorapp.adapter
+package com.example.navigatorapp.recyclerEcPlayers.adapter
 
 import android.annotation.SuppressLint
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.navigatorapp.EcPlayer
+import com.example.navigatorapp.recyclerEcPlayers.EcPlayer
 import com.example.navigatorapp.databinding.ItemPlayerBinding
 
 class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {

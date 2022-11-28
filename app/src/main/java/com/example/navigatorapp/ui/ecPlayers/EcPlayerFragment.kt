@@ -7,8 +7,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.navigatorapp.EcPlayersProvider
-import com.example.navigatorapp.adapter.EcPlayerAdapter
+import com.example.navigatorapp.recyclerEcPlayers.EcPlayersProvider
+import com.example.navigatorapp.recyclerEcPlayers.adapter.EcPlayerAdapter
 import com.example.navigatorapp.databinding.FragmentEcplayersBinding
 
 class EcPlayerFragment : Fragment() {
